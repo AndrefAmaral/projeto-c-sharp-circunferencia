@@ -1,0 +1,13 @@
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.exe
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.deps.json
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.json
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.dev.json
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.dll
+C:\dev\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.pdb
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.csprojAssemblyReference.cache
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfoInputs.cache
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfo.cs
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.csproj.CoreCompileInputs.cache
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.dll
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.pdb
+C:\dev\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.genruntimeconfig.cache
